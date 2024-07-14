@@ -1,0 +1,17 @@
+{
+    "author": "robogo",
+    "info": "Video Sources",
+    "providers": [
+        {
+            "name": "OnDemandChina",
+            "id": "odc",
+            "url": "https://www.ondemandchina.com",
+            "categories": {
+                "Movie": "/zh-Hans/category/movie",
+                "TV Drama": "/zh-Hans/category/drama",
+                "Show": "/zh-Hans/category/variety",
+                "Documentary": "/zh-Hans/category/documentary"
+            }
+        }
+    ]
+}
